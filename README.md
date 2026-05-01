@@ -1,6 +1,6 @@
 # SRA PySeismoSoil — EQL with Auto-Tuning
 
-A single-file Python script for **1-D Equivalent-Linear (EQL) site response analysis** built on top of [PySeismoSoil](https://github.com/jsh9/PySeismoSoil). The script automatically tunes soil damping and stiffness parameters so the simulated acceleration at a target depth matches a reference recording (e.g. a centrifuge sensor or a downhole accelerometer) as closely as possible.
+A Python script for **1-D Equivalent-Linear (EQL) site response analysis** built on top of [PySeismoSoil](https://github.com/jsh9/PySeismoSoil). The script automatically tunes soil damping and stiffness parameters so the simulated acceleration at a target depth matches a reference recording (e.g. a centrifuge sensor or a downhole accelerometer) as closely as possible.
 
 > ⚠️ **Disclaimer**: This is research code provided "as is" for academic use. Results have not been independently verified for engineering design. The author accepts no liability for any use of this code.
 
