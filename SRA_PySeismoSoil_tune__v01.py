@@ -113,7 +113,7 @@ from PySeismoSoil.class_curves import Multiple_GGmax_Damping_Curves
 
 
 # ==============================================================================
-#  INLINED HELPER 1 - Extract acceleration time history at a target depth
+#  Extract acceleration time history at a target depth
 # ==============================================================================
 
 def func_extract_sublayers_v1(res, target_z):
